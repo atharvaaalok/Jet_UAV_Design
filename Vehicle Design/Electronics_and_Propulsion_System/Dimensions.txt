@@ -1,0 +1,2 @@
+The dimensions of the parts are mentioned in L B H (in mm):
+L, B, H
