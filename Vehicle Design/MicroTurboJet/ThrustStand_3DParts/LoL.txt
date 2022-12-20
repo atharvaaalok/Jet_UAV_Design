@@ -1,0 +1,11 @@
+Cut in Mount 2?
+Cut in Mount 1?
+Load Cell 1 kg diagram?
+wood as insulation? Width?
+Metal connector - width? should not bend.
+holes - fillet? See thrust stand holes in lab
+connector plate - fillet?
+base and top plate - fillet?
+
+
+Threading
